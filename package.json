@@ -46,6 +46,8 @@
   "_id": "multi-hashing@0.0.9",
   "_shasum": "1d79eeb5078eca83fce837945b194bb9af47df38",
   "_from": "git://github.com/Alarmod/node-multi-hashing.git",
-  "_resolved": "git://github.com/Alarmod/node-multi-hashing.git#24a7b40883c8cfa3ab66df3858efae5453fa0ecc",
-  "gitHead": "24a7b40883c8cfa3ab66df3858efae5453fa0ecc"
+  "_resolved": "git://github.com/Alarmod/node-multi-hashing.git#ad90100242b4da464980d060790850ac07992dab",
+  "gitHead": "ad90100242b4da464980d060790850ac07992dab"
 }
+
+
